@@ -19,3 +19,7 @@ C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermark
 C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermarket5\obj\Debug\SUpermarket5.csproj.CopyComplete
 C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermarket5\obj\Debug\SUpermarket5.exe
 C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermarket5\obj\Debug\SUpermarket5.pdb
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermarket5\obj\Debug\View\Admin\AdminView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermarket5\obj\Debug\View\Cashier\CashierView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermarket5\obj\Debug\View\Admin\AdminView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SUpermarket5\obj\Debug\View\Cashier\CashierView.baml
