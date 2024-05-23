@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Supermarket4ModelStoreContainer" CdmEntityContainer="Supermarket4Entities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="Supermarket4Model.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="Supermarket4Model.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producers">
+      <EntityTypeMapping TypeName="Supermarket4Model.Producer">
+        <MappingFragment StoreEntitySet="Producer">
+          <ScalarProperty Name="ProducerID" ColumnName="ProducerID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="Supermarket4Model.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ProducerID" ColumnName="ProducerID" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="BarCode" ColumnName="BarCode" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Receipts">
+      <EntityTypeMapping TypeName="Supermarket4Model.Receipt">
+        <MappingFragment StoreEntitySet="Receipt">
+          <ScalarProperty Name="ReceiptID" ColumnName="ReceiptID" />
+          <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Receipt_Product">
+      <EntityTypeMapping TypeName="Supermarket4Model.Receipt_Product">
+        <MappingFragment StoreEntitySet="Receipt_Product">
+          <ScalarProperty Name="ReceiptProductID" ColumnName="ReceiptProductID" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ReceiptID" ColumnName="ReceiptID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stocks">
+      <EntityTypeMapping TypeName="Supermarket4Model.Stock">
+        <MappingFragment StoreEntitySet="Stock">
+          <ScalarProperty Name="StockID" ColumnName="StockID" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="SellPrice" ColumnName="SellPrice" />
+          <ScalarProperty Name="BuyPrice" ColumnName="BuyPrice" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AddCategory" FunctionName="Supermarket4Model.Store.AddCategory" />
+    <FunctionImportMapping FunctionImportName="AddEmployee" FunctionName="Supermarket4Model.Store.AddEmployee" />
+    <FunctionImportMapping FunctionImportName="AddProducer" FunctionName="Supermarket4Model.Store.AddProducer" />
+    <FunctionImportMapping FunctionImportName="AddProduct" FunctionName="Supermarket4Model.Store.AddProduct" />
+    <FunctionImportMapping FunctionImportName="AddReceipt" FunctionName="Supermarket4Model.Store.AddReceipt" />
+    <FunctionImportMapping FunctionImportName="AddStock" FunctionName="Supermarket4Model.Store.AddStock" />
+    <FunctionImportMapping FunctionImportName="DeleteCategory" FunctionName="Supermarket4Model.Store.DeleteCategory" />
+    <FunctionImportMapping FunctionImportName="DeleteEmployee" FunctionName="Supermarket4Model.Store.DeleteEmployee" />
+    <FunctionImportMapping FunctionImportName="DeleteProducer" FunctionName="Supermarket4Model.Store.DeleteProducer" />
+    <FunctionImportMapping FunctionImportName="DeleteProduct" FunctionName="Supermarket4Model.Store.DeleteProduct" />
+    <FunctionImportMapping FunctionImportName="DeleteReceipt" FunctionName="Supermarket4Model.Store.DeleteReceipt" />
+    <FunctionImportMapping FunctionImportName="DeleteStock" FunctionName="Supermarket4Model.Store.DeleteStock" />
+    <FunctionImportMapping FunctionImportName="GetAllCategory" FunctionName="Supermarket4Model.Store.GetAllCategory">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Supermarket4Model.GetAllCategory_Result">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllEmployee" FunctionName="Supermarket4Model.Store.GetAllEmployee">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Supermarket4Model.GetAllEmployee_Result">
+          <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllProducer" FunctionName="Supermarket4Model.Store.GetAllProducer">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Supermarket4Model.GetAllProducer_Result">
+          <ScalarProperty Name="ProducerID" ColumnName="ProducerID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllProduct" FunctionName="Supermarket4Model.Store.GetAllProduct">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Supermarket4Model.GetAllProduct_Result">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ProducerID" ColumnName="ProducerID" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="BarCode" ColumnName="BarCode" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllReceipt" FunctionName="Supermarket4Model.Store.GetAllReceipt">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Supermarket4Model.GetAllReceipt_Result">
+          <ScalarProperty Name="ReceiptID" ColumnName="ReceiptID" />
+          <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetAllStock" FunctionName="Supermarket4Model.Store.GetAllStock">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Supermarket4Model.GetAllStock_Result">
+          <ScalarProperty Name="StockID" ColumnName="StockID" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="SellPrice" ColumnName="SellPrice" />
+          <ScalarProperty Name="BuyPrice" ColumnName="BuyPrice" />
+          <ScalarProperty Name="ExpirationDate" ColumnName="ExpirationDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ModifyCategory" FunctionName="Supermarket4Model.Store.ModifyCategory" />
+    <FunctionImportMapping FunctionImportName="ModifyEmployee" FunctionName="Supermarket4Model.Store.ModifyEmployee" />
+    <FunctionImportMapping FunctionImportName="ModifyProducer" FunctionName="Supermarket4Model.Store.ModifyProducer" />
+    <FunctionImportMapping FunctionImportName="ModifyProduct" FunctionName="Supermarket4Model.Store.ModifyProduct" />
+    <FunctionImportMapping FunctionImportName="ModifyStock" FunctionName="Supermarket4Model.Store.ModifyStock" />
+    <FunctionImportMapping FunctionImportName="RestoreCategory" FunctionName="Supermarket4Model.Store.RestoreCategory" />
+    <FunctionImportMapping FunctionImportName="RestoreEmployee" FunctionName="Supermarket4Model.Store.RestoreEmployee" />
+    <FunctionImportMapping FunctionImportName="RestoreProducer" FunctionName="Supermarket4Model.Store.RestoreProducer" />
+    <FunctionImportMapping FunctionImportName="RestoreProduct" FunctionName="Supermarket4Model.Store.RestoreProduct" />
+    <FunctionImportMapping FunctionImportName="RestoreReceipt" FunctionName="Supermarket4Model.Store.RestoreReceipt" />
+    <FunctionImportMapping FunctionImportName="RestoreStock" FunctionName="Supermarket4Model.Store.RestoreStock" />
+  </EntityContainerMapping>
+</Mapping>
