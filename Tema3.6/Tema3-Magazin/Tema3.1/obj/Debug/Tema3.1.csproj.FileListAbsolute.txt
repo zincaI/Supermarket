@@ -1,0 +1,377 @@
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\bin\Debug\Tema3.1.exe.config
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\bin\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\bin\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\bin\Debug\EntityFramework.dll
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\bin\Debug\EntityFramework.xml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\MainWindow.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\App.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\MainWindow.baml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1.g.resources
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3.1\Tema3.1\obj\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\bin\Debug\Tema3.1.exe.config
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\bin\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\bin\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\bin\Debug\EntityFramework.dll
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\bin\Debug\EntityFramework.xml
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\MainWindow.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\App.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\MainWindow.baml
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.g.resources
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3_1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.pdb
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\bin\Debug\Tema3.1.exe.config
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\bin\Debug\Tema3.1.exe
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\bin\Debug\Tema3.1.pdb
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\bin\Debug\EntityFramework.dll
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\bin\Debug\EntityFramework.xml
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\MainWindow.g.cs
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\App.g.cs
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\MainWindow.baml
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.g.resources
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.csproj.CopyComplete
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.exe
+C:\Users\zinca\Downloads\Tema3.1\Tema3.1\Tema3.1\obj\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+C:\Users\tomes\Desktop\Anul2Sem2\MAP\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.g.cs
+C:\Users\tomes\Desktop\Tema3.4\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Tema3.5\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerStatsView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerStatsView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\AllReceiptsView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\AllReceiptsView.baml
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AllCategoriesView.g.cs
+E:\Facultate an 2 sem 2\MAP\Tema3 Dummy\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AllCategoriesView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AllCategoriesView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerStatsView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\SalesStats.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\AllReceiptsView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AllCategoriesView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerStatsView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\SalesStats.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\AllReceiptsView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.Up2Date
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+C:\Users\tomes\Desktop\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe.config
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.exe
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\Tema3.1.pdb
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.dll
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\bin\Debug\EntityFramework.xml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.AssemblyReference.cache
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AllCategoriesView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerStatsView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\SalesStats.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\AllReceiptsView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\App.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_Content.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.cache
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1_MarkupCompile.lref
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AdminView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\AllCategoriesView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\CategoriesView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerStatsView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProducerView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\ProductView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\SalesStats.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\StockView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Admin\UserView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\AllReceiptsView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\CashierView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ProductListView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Cashier\ReceiptView.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\MainWindow.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\View\Register.baml
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.g.resources
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3._1.Properties.Resources.resources
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.GenerateResource.cache
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CoreCompileInputs.cache
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.csproj.CopyComplete
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.exe
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Tema3.6\Tema3-Magazin\Tema3.1\obj\Debug\Tema3.1.pdb

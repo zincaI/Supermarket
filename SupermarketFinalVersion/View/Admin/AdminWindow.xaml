@@ -1,0 +1,28 @@
+﻿<Window x:Class="SupermarketFinalVersion.View.Admin.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SupermarketFinalVersion.ViewModel"
+        xmlns:viewModels="clr-namespace:SupermarketFinalVersion.ViewModel"
+
+xmlns:converters="clr-namespace:SupermarketFinalVersion.Converters"
+        
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <local:AdminVM/>
+    </Window.DataContext>
+
+    <Grid>
+        <Button x:Name="categoryButton" Content="Categories" HorizontalAlignment="Left" Margin="154,67,0,0" VerticalAlignment="Top" Height="34" Width="122" Command="{Binding OpenWindowCommand}" CommandParameter="2"/>
+        <Button x:Name="producersButton" Content="Producers" HorizontalAlignment="Left" Margin="154,127,0,0" VerticalAlignment="Top" Width="122" Height="33" Command="{Binding OpenWindowCommand}" CommandParameter="3"/>
+        <Button x:Name="productButton" Content="Product" HorizontalAlignment="Left" Margin="154,184,0,0" VerticalAlignment="Top" Height="33" Width="122" Command="{Binding OpenWindowCommand}" CommandParameter="4"/>
+        <Button x:Name="stockButton" Content="Stock" HorizontalAlignment="Left" Margin="154,239,0,0" VerticalAlignment="Top" Height="33" Width="122" Command="{Binding OpenWindowCommand}" CommandParameter="5"/>
+        <Button x:Name="userButton" Content="Users" HorizontalAlignment="Left" Margin="154,306,0,0" VerticalAlignment="Top" Height="33" Width="122" Command="{Binding OpenWindowCommand}" CommandParameter="6"/>
+        <Button x:Name="ProducerCast" Content="Producer Cast" HorizontalAlignment="Left" Margin="154,368,0,0" VerticalAlignment="Top" Height="33" Width="122" Command="{Binding OpenWindowCommand}" CommandParameter="7"/>
+        <Button x:Name="CategoryCast" Content="Category Cast" HorizontalAlignment="Center" Margin="0,368,0,0" VerticalAlignment="Top" Height="33" Width="122" Command="{Binding OpenWindowCommand}" CommandParameter="8"/>
+        <Button x:Name="bestReceiptButton" Content="Best Receipt" HorizontalAlignment="Center" Margin="0,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.227,0.152" Height="34" Width="122"  Command="{Binding OpenWindowCommand}" CommandParameter="9"/>
+
+    </Grid>
+</Window>

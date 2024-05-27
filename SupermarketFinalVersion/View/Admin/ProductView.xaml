@@ -1,0 +1,62 @@
+﻿<Window x:Class="SupermarketFinalVersion.View.Admin.ProductView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SupermarketFinalVersion.View.Admin"
+        xmlns:viewModels="clr-namespace:SupermarketFinalVersion.ViewModel"
+        xmlns:converters="clr-namespace:SupermarketFinalVersion.Converters"
+        
+        mc:Ignorable="d"
+        Title="ProductView" Height="450" Width="800">
+
+    <Window.DataContext>
+        <viewModels:ProductVM/>
+    </Window.DataContext>
+
+    <Window.Resources>
+        <converters:ProductConvert x:Key="ProductConvert"/>
+        <converters:ProductProducerConvert x:Key="ProductProducerConvert"/>
+        <converters:ProductCategoryConvert x:Key="ProductCategoryConvert"/>
+    </Window.Resources>
+
+    <Grid>
+        <DataGrid Name="productGrid" Margin="0,15,267,196" AutoGenerateColumns="False" ScrollViewer.VerticalScrollBarVisibility="Visible" ItemsSource= "{Binding ProductsList}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ProductID}" Width="30"/>
+                <DataGridTextColumn Header="Product name" Binding="{Binding Name}" Width="100"/>
+                <DataGridTextColumn Header="Producer name" Binding="{Binding ProducerID, Converter={StaticResource ProductProducerConvert}}" Width="100"/>
+                <DataGridTextColumn Header="Category name" Binding="{Binding CategoryID, Converter={StaticResource ProductCategoryConvert}}" Width="100"/>
+                <DataGridTextColumn Header="Barcode" Binding="{Binding BarCode}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Label HorizontalAlignment="Left" Margin="26,280,0,0" VerticalAlignment="Top">Product name:</Label>
+        <TextBox Name="productname" HorizontalAlignment="Left" Margin="118,284,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label  HorizontalAlignment="Left" Margin="26,311,0,0" VerticalAlignment="Top" >Producer name:</Label>
+        <TextBox Name="producername"  HorizontalAlignment="Left" Margin="124,319,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="categoryname" HorizontalAlignment="Left" Margin="392,284,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" />
+        <Label  HorizontalAlignment="Left" Margin="299,280,0,0" VerticalAlignment="Top">Category name:</Label>
+        <Label  HorizontalAlignment="Left" Margin="317,320,0,0" VerticalAlignment="Top">BarCode:</Label>
+        <TextBox Name="barcode"  HorizontalAlignment="Left" Margin="392,324,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+
+        <Button Content="Add Product" HorizontalAlignment="Left" Margin="49,367,0,0" VerticalAlignment="Top" Command="{Binding AddCommand}">
+            <Button.CommandParameter>
+                <MultiBinding Converter="{StaticResource ProductConvert}">
+                    <Binding ElementName="producername" Path="Text"/>
+                    <Binding ElementName="categoryname" Path="Text"/>
+                    <Binding ElementName="productname" Path="Text"/>
+                    <Binding ElementName="barcode" Path="Text"/>
+                </MultiBinding>
+            </Button.CommandParameter>
+        </Button>
+        <Button x:Name="modifyButton" Content="Modify" HorizontalAlignment="Left" Margin="157,367,0,0" VerticalAlignment="Top" Width="72"
+                Command="{Binding UpdateCommand}" CommandParameter="{Binding ElementName=productGrid, Path=SelectedItem}"/>
+        <Button x:Name="deleteButton" Content="Delete" HorizontalAlignment="Left" Margin="266,367,0,0" VerticalAlignment="Top" Width="68"
+               Command="{Binding DeleteCommand}" CommandParameter="{Binding ElementName=productGrid, Path=SelectedItem}"/>
+
+
+
+
+    </Grid>
+</Window>

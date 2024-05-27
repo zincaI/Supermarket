@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|c:\\users\\tomes\\desktop\\tema3.6\\tema3-magazin\\tema3.1\\models\\businesslogiclayer\\stockbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\models\\businesslogiclayer\\stockbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|c:\\users\\tomes\\desktop\\tema3.6\\tema3-magazin\\tema3.1\\models\\businesslogiclayer\\receipt_productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\models\\businesslogiclayer\\receipt_productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\viewmodel\\receipt_productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\viewmodel\\receipt_productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\view\\admin\\salesstats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\view\\admin\\salesstats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\converters\\converttostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\converters\\converttostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\viewmodel\\stockvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\viewmodel\\stockvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|c:\\users\\tomes\\desktop\\tema3.6\\tema3-magazin\\tema3.1\\converters\\employeestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\converters\\employeestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\models\\businesslogiclayer\\receiptbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\models\\businesslogiclayer\\receiptbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\view\\cashier\\receiptview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\view\\cashier\\receiptview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\view\\admin\\allcategoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\view\\admin\\allcategoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\view\\admin\\producerstatsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\view\\admin\\producerstatsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\converters\\receipt_productconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\converters\\receipt_productconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\converters\\producerconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\converters\\producerconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\converters\\employeeconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\converters\\employeeconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\models\\businesslogiclayer\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\models\\businesslogiclayer\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\viewmodel\\cashiervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\viewmodel\\cashiervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\viewmodel\\producervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\viewmodel\\producervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\viewmodel\\receiptvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\viewmodel\\receiptvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\models\\businesslogiclayer\\categorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\models\\businesslogiclayer\\categorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\models\\businesslogiclayer\\producerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\models\\businesslogiclayer\\producerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\tema3.1\\converters\\stockproductconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98A76D9-7DD1-4EC7-9FF7-8CBDA55E9585}|Tema3.1\\Tema3.1.csproj|solutionrelative:tema3.1\\converters\\stockproductconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockBLL.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\StockBLL.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Models\\BusinessLogicLayer\\StockBLL.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\StockBLL.cs",
+              "RelativeToolTip": "Tema3.1\\Models\\BusinessLogicLayer\\StockBLL.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAlwHgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:30:44.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesStats.xaml",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Admin\\SalesStats.xaml",
+              "RelativeDocumentMoniker": "Tema3.1\\View\\Admin\\SalesStats.xaml",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Admin\\SalesStats.xaml",
+              "RelativeToolTip": "Tema3.1\\View\\Admin\\SalesStats.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T14:48:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receipt_ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\Receipt_ProductVM.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\ViewModel\\Receipt_ProductVM.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\Receipt_ProductVM.cs",
+              "RelativeToolTip": "Tema3.1\\ViewModel\\Receipt_ProductVM.cs",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAmwGUBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:50:48.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvertToString.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\ConvertToString.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Converters\\ConvertToString.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\ConvertToString.cs",
+              "RelativeToolTip": "Tema3.1\\Converters\\ConvertToString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:29:04.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receipt_ProductBLL.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\Receipt_ProductBLL.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Models\\BusinessLogicLayer\\Receipt_ProductBLL.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\Receipt_ProductBLL.cs",
+              "RelativeToolTip": "Tema3.1\\Models\\BusinessLogicLayer\\Receipt_ProductBLL.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAIwLYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:05:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllCategoriesView.xaml",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Admin\\AllCategoriesView.xaml",
+              "RelativeDocumentMoniker": "Tema3.1\\View\\Admin\\AllCategoriesView.xaml",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Admin\\AllCategoriesView.xaml",
+              "RelativeToolTip": "Tema3.1\\View\\Admin\\AllCategoriesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T16:32:42.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeConvert.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\EmployeeConvert.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Converters\\EmployeeConvert.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\EmployeeConvert.cs",
+              "RelativeToolTip": "Tema3.1\\Converters\\EmployeeConvert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:29:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\StockVM.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\ViewModel\\StockVM.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\StockVM.cs",
+              "RelativeToolTip": "Tema3.1\\ViewModel\\StockVM.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:00:43.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeStats.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\EmployeeStats.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Converters\\EmployeeStats.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\EmployeeStats.cs",
+              "RelativeToolTip": "Tema3.1\\Converters\\EmployeeStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:27:33.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceiptBLL.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\ReceiptBLL.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Models\\BusinessLogicLayer\\ReceiptBLL.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\ReceiptBLL.cs",
+              "RelativeToolTip": "Tema3.1\\Models\\BusinessLogicLayer\\ReceiptBLL.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:17:53.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReceiptView.xaml",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Cashier\\ReceiptView.xaml",
+              "RelativeDocumentMoniker": "Tema3.1\\View\\Cashier\\ReceiptView.xaml",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Cashier\\ReceiptView.xaml",
+              "RelativeToolTip": "Tema3.1\\View\\Cashier\\ReceiptView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T04:51:16.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProducerConvert.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\ProducerConvert.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Converters\\ProducerConvert.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\ProducerConvert.cs",
+              "RelativeToolTip": "Tema3.1\\Converters\\ProducerConvert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:29:06.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Receipt_ProductConvert.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\Receipt_ProductConvert.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Converters\\Receipt_ProductConvert.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\Receipt_ProductConvert.cs",
+              "RelativeToolTip": "Tema3.1\\Converters\\Receipt_ProductConvert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:29:07.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProducerStatsView.xaml",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Admin\\ProducerStatsView.xaml",
+              "RelativeDocumentMoniker": "Tema3.1\\View\\Admin\\ProducerStatsView.xaml",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\Admin\\ProducerStatsView.xaml",
+              "RelativeToolTip": "Tema3.1\\View\\Admin\\ProducerStatsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T07:11:18.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductBLL.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\ProductBLL.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Models\\BusinessLogicLayer\\ProductBLL.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\ProductBLL.cs",
+              "RelativeToolTip": "Tema3.1\\Models\\BusinessLogicLayer\\ProductBLL.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAvwHUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:10:44.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CashierVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\CashierVM.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\ViewModel\\CashierVM.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\CashierVM.cs",
+              "RelativeToolTip": "Tema3.1\\ViewModel\\CashierVM.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:38:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tema3.1\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Tema3.1\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T11:46:38.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\ViewModel\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\ProductVM.cs",
+              "RelativeToolTip": "Tema3.1\\ViewModel\\ProductVM.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAiwGcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:10:21.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProducerVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\ProducerVM.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\ViewModel\\ProducerVM.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\ProducerVM.cs",
+              "RelativeToolTip": "Tema3.1\\ViewModel\\ProducerVM.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:57:33.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReceiptVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\ReceiptVM.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\ViewModel\\ReceiptVM.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\ViewModel\\ReceiptVM.cs",
+              "RelativeToolTip": "Tema3.1\\ViewModel\\ReceiptVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:11:26.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProducerBLL.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\ProducerBLL.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Models\\BusinessLogicLayer\\ProducerBLL.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\ProducerBLL.cs",
+              "RelativeToolTip": "Tema3.1\\Models\\BusinessLogicLayer\\ProducerBLL.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:37:33.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryBLL.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\CategoryBLL.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Models\\BusinessLogicLayer\\CategoryBLL.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Models\\BusinessLogicLayer\\CategoryBLL.cs",
+              "RelativeToolTip": "Tema3.1\\Models\\BusinessLogicLayer\\CategoryBLL.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:37:43.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\App.config",
+              "RelativeDocumentMoniker": "Tema3.1\\App.config",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\App.config",
+              "RelativeToolTip": "Tema3.1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-25T06:49:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StockProductConvert.cs",
+              "DocumentMoniker": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\StockProductConvert.cs",
+              "RelativeDocumentMoniker": "Tema3.1\\Converters\\StockProductConvert.cs",
+              "ToolTip": "C:\\Users\\tomes\\Desktop\\Tema3.6\\Tema3-Magazin\\Tema3.1\\Converters\\StockProductConvert.cs",
+              "RelativeToolTip": "Tema3.1\\Converters\\StockProductConvert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:53:55.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
