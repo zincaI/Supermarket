@@ -9,7 +9,8 @@
         xmlns:converters="clr-namespace:SupermarketFinalVersion.Converters"
         
         mc:Ignorable="d"
-        Title="ReceiptView" Height="450" Width="800">
+        Title="ReceiptView" Height="450" Width="800"
+        Closing="OnWindowClosing">
     <Window.DataContext>
         <viewModels:Receipt_ProductVM />
     </Window.DataContext>

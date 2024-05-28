@@ -48,3 +48,4 @@ C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\Supermark
 C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SupermarketFinalVersion\obj\Debug\SupermarketFinalVersion.csproj.CopyComplete
 C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SupermarketFinalVersion\obj\Debug\SupermarketFinalVersion.exe
 C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SupermarketFinalVersion\obj\Debug\SupermarketFinalVersion.pdb
+C:\Users\zinca\OneDrive\Desktop\anul2\sem2\MAP\Supermarket\Supermarket\SupermarketFinalVersion\obj\Debug\App.baml

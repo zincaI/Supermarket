@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SupermarketFinalVersion.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,14 @@ namespace SupermarketFinalVersion.View.Cashier
         public ReceiptView()
         {
             InitializeComponent();
+        }
+
+        private void OnWindowClosing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if (DataContext is Receipt_ProductVM viewModel)
+            {
+                viewModel.CloseReceipt();
+            }
         }
     }
 }

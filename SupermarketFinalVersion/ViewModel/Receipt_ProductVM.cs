@@ -268,150 +268,150 @@ namespace SupermarketFinalVersion.ViewModel
                     receiptID = activeReceipt.ReceiptID;
                     ReceiptProductList = new ObservableCollection<Receipt_Product>(receiptproductBLL.GetAllReceipt_Products().Where(product => product.ReceiptID == receiptID));
                 }
-
-                Receipt receipt = new Receipt
-                {
-                    EmployeeID = GetConnectedEmployeeId(),
-                    Date = DateTime.Now,
-                    IsActive = true
-                };
-
-                receiptBLL.AddMethod(receipt);
-                ErrorMessage = receiptBLL.ErrorMessage;
-                receiptID = receipt.ReceiptID;
-                ReceiptList.Add(receipt);
-                ReceiptProductList.Clear();
-                ReceiptProductList = new ObservableCollection<Receipt_Product>(receiptproductBLL.GetAllReceipt_Products().Where(product => product.ReceiptID == receiptID));
             }
-        }
-
-        private ICommand addCommandReceipt;
-        public ICommand AddCommandReceipt
-        {
-            get
+            Receipt receipt = new Receipt
             {
-                if (addCommandReceipt == null)
-                {
-                    addCommandReceipt = new RelayCommand(AddMethodReceipt);
-                }
-                return addCommandReceipt;
-            }
-        }
+                EmployeeID = GetConnectedEmployeeId(),
+                Date = DateTime.Now,
+                IsActive = true
+            };
 
-
-        public void SearchReceiptMethod(object obj)
-        {
-            receiptproductBLL.SearchReceiptProductMethod(obj);
-            FinalPrice = 0;
-            foreach (Receipt_Product receiptproduct in receiptproductBLL.listProducts)
-            {
-                FinalPrice += ((float)receiptproduct.TotalPrice);
-            }
-            ErrorMessage = receiptproductBLL.ErrorMessage;
-        }
-
-        private ICommand searchReceiptCommand;
-        public ICommand SearchReceiptCommand
-        {
-            get
-            {
-                if (searchReceiptCommand == null)
-                {
-                    searchReceiptCommand = new RelayCommand(SearchReceiptMethod);
-                }
-                return searchReceiptCommand;
-            }
-        }
-
-        private float finalPrice = 0;
-        public float FinalPrice
-        {
-            get
-            {
-                return finalPrice;
-            }
-            set
-            {
-                finalPrice = value;
-                NotifyPropertyChanged(nameof(FinalPrice));
-            }
-        }
-
-        private string description;
-        public string Description
-        {
-            get { return description; }
-            set
-            {
-                if (description != value)
-                {
-                    description = value;
-                    NotifyPropertyChanged(nameof(Description));
-                }
-            }
-        }
-
-
-        public void BestReceiptMethod(object obj)
-        {
-
-            (BestReceipt, BestPrice) = receiptproductBLL.BestReceiptMethod(obj);
-        }
-
-        private ICommand bestReceiptCommand;
-        public ICommand BestReceiptCommand
-        {
-            get
-            {
-                if (bestReceiptCommand == null)
-                {
-                    bestReceiptCommand = new RelayCommand(BestReceiptMethod);
-                }
-                return bestReceiptCommand;
-            }
-        }
-
-        public void MonthlyStats(object obj)
-        {
-            MonthlySales.Clear(); // Asigură-te că lista este golită înainte de a adăuga date noi
-            var salesData = receiptproductBLL.MonthlyStatsMethod(obj);
-            foreach (var item in salesData)
-            {
-                MonthlySales.Add(item);
-            }
-        }
-
-
-        private ICommand monthlyStatsCommand;
-        public ICommand MonthlyStatsCommand
-        {
-            get
-            {
-                if (monthlyStatsCommand == null)
-                {
-                    monthlyStatsCommand = new RelayCommand(MonthlyStats);
-                }
-                return monthlyStatsCommand;
-            }
-        }
-
-
-        //public void FilterMethod(object obj)
-        //{
-        //    stockBLL.FilterMethod(obj);
-        //    ErrorMessage = stockBLL.ErrorMessage;
-        //}
-        //private ICommand filterCommand;
-        //public ICommand FilterCommand
-        //{
-        //    get
-        //    {
-        //        if (filterCommand == null)
-        //        {
-        //            filterCommand = new RelayCommand(FilterMethod);
-        //        }
-        //        return filterCommand;
-        //    }
-        //}
+            receiptBLL.AddMethod(receipt);
+            ErrorMessage = receiptBLL.ErrorMessage;
+            receiptID = receipt.ReceiptID;
+            ReceiptList.Add(receipt);
+            ReceiptProductList.Clear();
+            ReceiptProductList = new ObservableCollection<Receipt_Product>(receiptproductBLL.GetAllReceipt_Products().Where(product => product.ReceiptID == receiptID));
+        
     }
+
+    private ICommand addCommandReceipt;
+    public ICommand AddCommandReceipt
+    {
+        get
+        {
+            if (addCommandReceipt == null)
+            {
+                addCommandReceipt = new RelayCommand(AddMethodReceipt);
+            }
+            return addCommandReceipt;
+        }
+    }
+
+
+    public void SearchReceiptMethod(object obj)
+    {
+        receiptproductBLL.SearchReceiptProductMethod(obj);
+        FinalPrice = 0;
+        foreach (Receipt_Product receiptproduct in receiptproductBLL.listProducts)
+        {
+            FinalPrice += ((float)receiptproduct.TotalPrice);
+        }
+        ErrorMessage = receiptproductBLL.ErrorMessage;
+    }
+
+    private ICommand searchReceiptCommand;
+    public ICommand SearchReceiptCommand
+    {
+        get
+        {
+            if (searchReceiptCommand == null)
+            {
+                searchReceiptCommand = new RelayCommand(SearchReceiptMethod);
+            }
+            return searchReceiptCommand;
+        }
+    }
+
+    private float finalPrice = 0;
+    public float FinalPrice
+    {
+        get
+        {
+            return finalPrice;
+        }
+        set
+        {
+            finalPrice = value;
+            NotifyPropertyChanged(nameof(FinalPrice));
+        }
+    }
+
+    private string description;
+    public string Description
+    {
+        get { return description; }
+        set
+        {
+            if (description != value)
+            {
+                description = value;
+                NotifyPropertyChanged(nameof(Description));
+            }
+        }
+    }
+
+
+    public void BestReceiptMethod(object obj)
+    {
+
+        (BestReceipt, BestPrice) = receiptproductBLL.BestReceiptMethod(obj);
+    }
+
+    private ICommand bestReceiptCommand;
+    public ICommand BestReceiptCommand
+    {
+        get
+        {
+            if (bestReceiptCommand == null)
+            {
+                bestReceiptCommand = new RelayCommand(BestReceiptMethod);
+            }
+            return bestReceiptCommand;
+        }
+    }
+
+    public void MonthlyStats(object obj)
+    {
+        MonthlySales.Clear(); // Asigură-te că lista este golită înainte de a adăuga date noi
+        var salesData = receiptproductBLL.MonthlyStatsMethod(obj);
+        foreach (var item in salesData)
+        {
+            MonthlySales.Add(item);
+        }
+    }
+
+
+    private ICommand monthlyStatsCommand;
+    public ICommand MonthlyStatsCommand
+    {
+        get
+        {
+            if (monthlyStatsCommand == null)
+            {
+                monthlyStatsCommand = new RelayCommand(MonthlyStats);
+            }
+            return monthlyStatsCommand;
+        }
+    }
+
+
+    //public void FilterMethod(object obj)
+    //{
+    //    stockBLL.FilterMethod(obj);
+    //    ErrorMessage = stockBLL.ErrorMessage;
+    //}
+    //private ICommand filterCommand;
+    //public ICommand FilterCommand
+    //{
+    //    get
+    //    {
+    //        if (filterCommand == null)
+    //        {
+    //            filterCommand = new RelayCommand(FilterMethod);
+    //        }
+    //        return filterCommand;
+    //    }
+    //}
+}
 }

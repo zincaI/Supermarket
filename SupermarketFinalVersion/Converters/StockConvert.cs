@@ -50,7 +50,7 @@ namespace SupermarketFinalVersion.Converters
 
                 string linie;
 
-                using (StreamReader sr = new StreamReader("Configuration.txt"))
+                using (StreamReader sr = new StreamReader("VAT.txt"))
                 {
 
                     linie = sr.ReadLine();
